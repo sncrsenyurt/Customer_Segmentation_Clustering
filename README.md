@@ -1,3 +1,6 @@
+![image](https://github.com/sncrsenyurt/Customer_Segmentation_Clustering/assets/35157651/c6fbb118-62c6-48e4-8fa1-05a761cf084c)
+
+
 # Customer_Segmentation_Clustering
 
 This repository contains a data analysis project focused on customer segmentation using the KMeans unsupervised machine learning algorithm. Customer segmentation is a vital task in marketing that helps identify distinct customer groups based on their behaviors and characteristics. This project aims to uncover univariate, bivariate, and multivariate clusters within a dataset of mall customers.
