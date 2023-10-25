@@ -1,4 +1,5 @@
-![image](https://github.com/sncrsenyurt/Customer_Segmentation_Clustering/assets/35157651/c6fbb118-62c6-48e4-8fa1-05a761cf084c)
+
+![customers](https://github.com/sncrsenyurt/Customer_Segmentation_Clustering/assets/35157651/743f349f-1273-4387-abf2-c46384994daf)
 
 
 # Customer_Segmentation_Clustering
