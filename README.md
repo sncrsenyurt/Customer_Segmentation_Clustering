@@ -12,7 +12,7 @@ Perform customer segmentation using the KMeans clustering algorithm.
 Identify univariate, bivariate, and multivariate clusters.
 Perform summary statistics on these clusters to identify the best marketing group.
 Data
-The dataset used for this project can be found in the data/ directory. It includes relevant information about mall customers, such as demographics, purchasing history, and visit frequency. A detailed data description can be found in data/data_description.md.
+The dataset used for this project can be found in the data/ directory. It includes relevant information about mall customers, such as demographics, purchasing history, and visit frequency.
 
 # Methodology
 The project follows these general steps:
